@@ -9,5 +9,6 @@ The Canonical Debate Lab is a community of people that have come together to def
 > I grew tired of the divisive bickering and misinformation so I created [Reason Score](https://reasonscore.com/), a crowd sourced super fact checking web app. I hope the underlying concept will be useful in helping people understand canonical debates.
 
 Bentley Davis is a software developer with over 30 years of experience including 15 years of management and has been a CTO of a startup with a successful exit. He has been working on effective debate tools since 2012. 
-[BentleyDavis.com](https://BentleyDavis.com)
-[Twitter](https://twitter.com/bntlyd)
+
+ - [BentleyDavis.com](https://BentleyDavis.com)
+ - [Twitter](https://twitter.com/bntlyd)
