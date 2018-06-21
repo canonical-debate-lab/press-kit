@@ -16,6 +16,17 @@ Bentley Davis is a software developer with over 30 years of experience including
  - [BentleyDavis.com](https://BentleyDavis.com)
  - [Twitter](https://twitter.com/bntlyd)
 
+### Timothy High
+![timothy](https://avatars1.githubusercontent.com/u/72254?s=400&u=85627866a22aa7bf97c4ec027c32f21051ef1f5d&v=4)
+
+> I realized there was something very wrong with the way we debate and make decisions online and in real life. We just don't seem to be able to share and accumulate knowledge the way we should. I was also very frustrated with how easy it is for trolls to disrupt and take over conversations. I dubbed my first attempts at solving this problem [Project Gruff](https://gruff.org/), based on the story of the Three Billy Goats Gruff, and came up with the goal of "Trolling the trolls" - beating them at their own game. Or, at the very least, providing tools for people to drop a truth bomb on them and walk away.
+
+Tim High is a software developer with over 20 years of experience, and has been a senior engineer, team lead and CTO of several successful startups. He is currently Director of the API team at [Quidd](https://quidd.co). He has been developing decision-making and debate tools since 2008.
+
+ - [Medium](https://medium.com/@bigokro)
+ - [Twitter](https://twitter.com/bigokro)
+ - [Original Blog](http://timhigh.wordpress.com)
+
 ### Stephen Wicklund
 ![stephen](https://avatars3.githubusercontent.com/u/5303978?s=460&v=4)
 
