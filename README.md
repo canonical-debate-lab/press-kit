@@ -36,3 +36,19 @@ Tim High is a software developer with over 20 years of experience, and has been 
 
  - [Debate Map](https://debatemap.live)
  - [Github profile](https://github.com/Venryx)
+
+### Oz Fraier
+![oz](https://bit.ly/2IpM50y)
+> Born in Israel, I grew up in a country that is characterized by many ongoing political and social problems that are difficult to solve, also known as [Wicked Problems](https://en.wikipedia.org/wiki/Wicked_problem).
+>On the other hand, almost everyone here has strong opinions about the cause of the problem and the needed solution.
+>I believe that the opinions and insights of each and every person count, 
+>Every person have their own unique point of view which reveal the truth that others don't see.
+>Its like each one has a puzzle piece, and together we may solve the big picture.
+>I also believe that the potential for insight and ability to act that are dispersed among the population is enormous, and is crucial for tackling the complex problems this generation is facing.
+
+Oz Fraier has been thinking and collaborating with others on a technological solution for large groups discussions since roughly 2006, In the last couple of years he's working on WikiD, a webapp prototype that realizes these thoughts and ideas, work is still in progress.
+
+
+- [WikiD](https://www.wikidapp.herokuapp.com)
+- [Github profile](https://github.com/OzFri)
+
