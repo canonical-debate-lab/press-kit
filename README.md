@@ -6,16 +6,6 @@ The Canonical Debate Lab is a community of people that have come together to def
 
 ## Members
 
-### Bentley Davis
-![bentley](https://avatars0.githubusercontent.com/u/1606382?s=460&v=4)
-
-> I grew tired of the divisive bickering and misinformation so I created [Reason Score](https://reasonscore.com/), a crowd sourced super fact checking web app. I hope the underlying concept will be useful in helping people understand canonical debates.
-
-Bentley Davis is a software developer with over 30 years of experience including 15 years of management and has been a CTO of a startup with a successful exit. He has been working on effective debate tools since 2012. 
-
- - [BentleyDavis.com](https://BentleyDavis.com)
- - [Twitter](https://twitter.com/bntlyd)
-
 ### Timothy High
 ![timothy](https://avatars1.githubusercontent.com/u/72254?s=400&u=85627866a22aa7bf97c4ec027c32f21051ef1f5d&v=4)
 
@@ -36,3 +26,15 @@ Tim High is a software developer with over 20 years of experience, and has been 
 
  - [Debate Map](https://debatemap.live)
  - [Github profile](https://github.com/Venryx)
+
+### Bentley Davis
+![bentley](https://avatars0.githubusercontent.com/u/1606382?s=460&v=4)
+
+> I grew tired of the divisive bickering and misinformation so I created [Reason Score](https://reasonscore.com/), a crowd sourced super fact checking web app. I hope the underlying concept will be useful in helping people understand canonical debates.
+
+Bentley Davis is a co-founder of the [Pro-Truth Plegde](https://ProTruthPledge.org) which encourage politicians – and everyone else – to commit to truth-oriented behaviors and promote facts and civility. He is also a software developer with over 30 years of experience including 15 years of management and has been a CTO of a startup with a successful exit. He has been working on effective debate tools since 2012. 
+
+ - [BentleyDavis.com](https://BentleyDavis.com)
+ - [Twitter](https://twitter.com/bntlyd)
+ - [Pro-Truth Plegde](https://ProTruthPledge.org)
+ - [Reason Score](https://reasonscore.com/)
