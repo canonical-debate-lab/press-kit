@@ -40,8 +40,8 @@ Bentley Davis is a co-founder of the [Pro-Truth Pledge](https://ProTruthPledge.o
  - [Reason Score](https://reasonscore.com/)
 
 ### Oz Fraier
-![oz](https://bit.ly/2IpM50y)
-> Born in Israel, I grew up in a country that is characterized by many ongoing political and social problems that are difficult to solve, also known as [Wicked Problems](https://en.wikipedia.org/wiki/Wicked_problem).
+![oz](https://drive.google.com/uc?export=view&id=1IYABWsx1N56oO7lYykuqJkrjnkaIvps7)
+> Living in Israel, a country that is characterized by many ongoing political and social problems that are difficult to solve, also known as [Wicked Problems](https://en.wikipedia.org/wiki/Wicked_problem).
 >On the other hand, almost everyone here has strong opinions about the cause of the problem and the needed solution.
 >I believe that the opinions and insights of each and every person count, 
 >Every person have their own unique point of view which reveal the truth that others don't see.
