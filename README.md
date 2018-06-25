@@ -32,9 +32,9 @@ Tim High is a software developer with over 20 years of experience, and has been 
 
 > I grew tired of the divisive bickering and misinformation so I created [Reason Score](https://reasonscore.com/), a crowd sourced super fact checking web app. I hope the underlying concept will be useful in helping people understand canonical debates.
 
-Bentley Davis is a co-founder of the [Pro-Truth Plegde](https://ProTruthPledge.org) which encourage politicians – and everyone else – to commit to truth-oriented behaviors and promote facts and civility. He is also a software developer with over 30 years of experience including 15 years of management and has been a CTO of a startup with a successful exit. He has been working on effective debate tools since 2012. 
+Bentley Davis is a co-founder of the [Pro-Truth Pledge](https://ProTruthPledge.org) which encourage politicians – and everyone else – to commit to truth-oriented behaviors and promote facts and civility. He is also a software developer with over 30 years of experience including 15 years of management and has been a CTO of a startup with a successful exit. He has been working on effective debate tools since 2012. 
 
  - [BentleyDavis.com](https://BentleyDavis.com)
  - [Twitter](https://twitter.com/bntlyd)
- - [Pro-Truth Plegde](https://ProTruthPledge.org)
+ - [Pro-Truth Pledge](https://ProTruthPledge.org)
  - [Reason Score](https://reasonscore.com/)
