@@ -1,4 +1,3 @@
-
 # Canonical Debate Lab Press Kit
 
 ## About Canonocal Debate Lab (CDL)
@@ -53,3 +52,11 @@ Oz Fraier has been thinking and collaborating with others on a technological sol
 
 - [WikiD](https://www.wikidapp.herokuapp.com)
 - [Github profile](https://github.com/OzFri)
+
+## Advisors
+### Dr. Gleb Tsipursky
+<img src="http://glebtsipursky.com/wp-content/uploads/2018/02/Gleb-Tsipursky-740x1024.jpg" alt="Dr. Gleb Tsipursky" width="400px">
+
+Dr. Gleb Tsipursky is the President of [Intentional Insights](https://intentionalinsights.org), and co-founder of the [Pro-Truth Pledge](https://www.protruthpledge.org/). A behavioral science expert with over 15 years in academia, including as a professor at Ohio State University, Gleb is a speaker and consultant on decision-making and social and emotional intelligence. He authored the #1 Amazon bestseller [The Truth-Seeker’s Handbook](https://www.amazon.com/Truth-Seekers-Handbook-Science-Based-Guide-ebook/dp/B078429WCF): A Science-Based Guide and frequently appears in venues like Time, Scientific American, Newsweek, Fast Company, Inc. Magazine, NPR, CBS News, Psychology Today, The Conversation, and CNBC
+
+- [GlebTsipursky.com](http://glebtsipursky.com/about/)
