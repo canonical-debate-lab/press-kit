@@ -1,3 +1,7 @@
+# This press kit is an old version. Please see [CanonicalDebateLab.com/about](https://CanonicalDebateLab.com/about) for the latest version.
+
+---
+
 # Canonical Debate Lab Press Kit
 
 ## About Canonocal Debate Lab (CDL)
